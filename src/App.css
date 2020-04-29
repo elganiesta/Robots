@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(235, 255, 255);
+    margin: 40px;
+    font-size: 70px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+input {
+    background-color: #ebffff;
+    margin-bottom: 16px;
+}
